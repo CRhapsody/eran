@@ -92,7 +92,7 @@ make
 make install
 cd ..
 
-git clone https://github.com/eth-sri/deepg.git
+git clone https://hub.fastgit.org/eth-sri/deepg.git
 cd deepg/code
 mkdir build
 make shared_object
